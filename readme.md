@@ -1,4 +1,4 @@
-# DesignHive 🎨🖌️
+# DesignHive 🎨🖌
 
 Welcome to **DesignHive**, a graphic design studio website built using the **Phlox** theme and **Elementor** plugin as a practice project to enhance UI design skills. 🚀
 

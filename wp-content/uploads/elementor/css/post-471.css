@@ -1,0 +1,117 @@
+.elementor-471 .elementor-element.elementor-element-4791b048{margin-top:100px;margin-bottom:0px;padding:0px 20px 0px 20px;}.elementor-471 .elementor-element.elementor-element-42d35644 .aux-modern-heading-secondary{font-family:"Nunito", Sans-serif;font-size:50px;font-weight:700;line-height:65px;letter-spacing:-1px;margin:0px 0px 45px 0px;max-width:600px;}.elementor-471 .elementor-element.elementor-element-42d35644{animation-delay:100ms;}.elementor-471 .elementor-element.elementor-element-3787971a .aux-media-image{border-radius:15px 15px 15px 15px !important;}.elementor-471 .elementor-element.elementor-element-3787971a .entry-header .entry-title a{font-family:"Nunito", Sans-serif;font-size:20px;font-weight:700;line-height:30px;}.elementor-471 .elementor-element.elementor-element-3787971a  .entry-header{margin-bottom:2px;}.elementor-471 .elementor-element.elementor-element-3787971a .entry-tax a{color:#9a9a9a;}.elementor-471 .elementor-element.elementor-element-3787971a .entry-tax{font-family:"Nunito", Sans-serif;font-size:14px;font-weight:400;font-style:normal;line-height:14px;letter-spacing:0.51px;margin-bottom:0px;}.elementor-471 .elementor-element.elementor-element-3787971a .entry-main{padding:2% 0% 0% 15% !important;}.elementor-471 .elementor-element.elementor-element-3787971a .aux-iso-item{margin-bottom:20px !important;}.elementor-471 .elementor-element.elementor-element-3787971a{animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}@media(max-width:1024px){.elementor-471 .elementor-element.elementor-element-42d35644 .aux-modern-heading-secondary{font-size:39px;line-height:48px;margin:0px 0px 15px 0px;max-width:448px;}.elementor-471 .elementor-element.elementor-element-3787971a .entry-header .entry-title a{font-size:20px;line-height:26px;}.elementor-471 .elementor-element.elementor-element-3787971a .entry-tax{font-size:13px;}.elementor-471 .elementor-element.elementor-element-3787971a .entry-main{padding:4% 0% 0% 17% !important;}.elementor-471 .elementor-element.elementor-element-3787971a > .elementor-widget-container{padding:0px 0px 0px 0px;}}@media(max-width:767px){.elementor-471 .elementor-element.elementor-element-42d35644 .aux-widget-inner > *{text-align:center;margin-left:auto !important;margin-right:auto !important;}.elementor-471 .elementor-element.elementor-element-42d35644 .aux-modern-heading-secondary{max-width:1600px;}.elementor-471 .elementor-element.elementor-element-3787971a .entry-tax{font-size:13px;}}/* Start custom CSS for aux_modern_heading, class: .elementor-element-42d35644 */.elementor-471 .elementor-element.elementor-element-42d35644 .aux-head-before, .elementor-471 .elementor-element.elementor-element-42d35644 .aux-head-highlight{
+background: var(--e-global-color-secondary);
+background: -moz-linear-gradient(271deg, var(--e-global-color-secondary) 0%, var(--e-global-color-primary) 100%);
+background: -webkit-linear-gradient(271deg, var(--e-global-color-secondary) 0%, var(--e-global-color-primary) 100%);
+background: linear-gradient(271deg, var(--e-global-color-secondary) 0%, var(--e-global-color-primary) 100%);
+ -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+}
+.elementor-471 .elementor-element.elementor-element-42d35644 .aux-modern-heading-description{
+    margin-right: auto;
+    margin-left: auto;
+}/* End custom CSS */
+/* Start custom CSS for aux_recent_portfolios_grid, class: .elementor-element-3787971a */.elementor-471 .elementor-element.elementor-element-3787971a .entry-title:after{
+    content: '';
+    width: 30px;
+    height: 6px;
+    background: var(--e-global-color-secondary);
+    background: linear-gradient(277deg, var(--e-global-color-secondary) 4%, var(--e-global-color-primary) 84%);
+    position: absolute;
+    border-radius:8px ;
+    left:-40px;
+    top: 15px;
+}
+.elementor-471 .elementor-element.elementor-element-3787971a .entry-main{
+    box-shadow: 0 10px 35px rgba(0,0,0,0.29);
+    border-radius:10px;
+    margin: auto;
+    background: #fff;
+    position: absolute;
+    bottom: 51px;
+    max-width: 90%;
+    left: 0;
+    right: 0;
+    height: 110px;
+       transition:all 1800ms cubic-bezier(0.19, 1, 0.22, 1);
+}
+@media only screen and (max-width: 1487px)and (min-width: 991px) {
+    .elementor-471 .elementor-element.elementor-element-3787971a .entry-main{
+    height: 130px;
+       transition:all 1800ms cubic-bezier(0.19, 1, 0.22, 1);
+}
+}
+.elementor-471 .elementor-element.elementor-element-3787971a .aux-isotope-ready {
+    overflow: visible;
+}
+@media only screen and (max-width: 1406px)and (min-width: 991px) {
+.elementor-471 .elementor-element.elementor-element-3787971a  .entry-title a{
+   font-size: 20px!important;
+   line-height: 30px!important;
+} 
+.elementor-471 .elementor-element.elementor-element-3787971a .entry-tax {
+   font-size: 13px;
+}
+.elementor-471 .elementor-element.elementor-element-3787971a .entry-main {
+    padding: 6% 0% 1% 16% !important;
+}
+}
+.elementor-471 .elementor-element.elementor-element-3787971a .entry-info{
+    margin-bottom: 11px;
+}
+.elementor-471 .elementor-element.elementor-element-3787971a .aux-media-image{
+box-shadow: 0 3px 35px rgba(0,0,0,0.19);
+}
+.elementor-471 .elementor-element.elementor-element-3787971a .aux-iso-item .hentry:hover .entry-title a, .elementor-471 .elementor-element.elementor-element-3787971a .aux-iso-item .hentry:hover  .entry-tax a{
+    color: #fff!important;
+}
+.elementor-471 .elementor-element.elementor-element-3787971a .aux-iso-item .hentry:hover  .entry-main{
+    background: var(--e-global-color-secondary);
+    height: 80%;
+    background: linear-gradient(180deg, var(--e-global-color-secondary) 4%, var(--e-global-color-primary) 84%);
+     transition:all 1800ms cubic-bezier(0.19, 1, 0.22, 1);
+    padding-top: 7%!important;
+    opacity: 0.95;
+} 
+.elementor-471 .elementor-element.elementor-element-3787971a .aux-overlay-content{
+    bottom: 0;
+    right: 10%;
+    transform: translateY(-15%);
+    top: auto;
+    text-align: right;
+    padding-right: 8px;
+}
+.elementor-471 .elementor-element.elementor-element-3787971a .aux-frame-darken::after {
+    opacity: 0;
+}
+.elementor-471 .elementor-element.elementor-element-3787971a .aux-iso-item .hentry:hover  .entry-title:after{
+    background: #fff!important;
+}
+.elementor-471 .elementor-element.elementor-element-3787971a .aux-svg-arrow{
+    background-image: none;
+}
+.elementor-471 .elementor-element.elementor-element-3787971a .aux-hover-circle-plus.aux-delay-2x{
+    display: none!important;
+}
+.elementor-471 .elementor-element.elementor-element-3787971a .aux-svg-arrow:after{
+    content: '\e682';
+    font-family: "auxin-front" !important;
+    font-style: normal !important;
+    font-weight: normal !important;
+    font-variant: normal !important;
+    text-transform: none !important;
+    speak: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    color: #fff;
+    font-size: 30px;
+}
+.elementor-471 .elementor-element.elementor-element-3787971a  .aux-overlay::after{
+    background-color: transparent !important;
+}
+.elementor-471 .elementor-element.elementor-element-3787971a .aux-white{
+    border: none!important;  
+    box-shadow: none;
+}
+.elementor-471 .elementor-element.elementor-element-3787971a .entry-media{
+    border-radius: 13px;
+}/* End custom CSS */
